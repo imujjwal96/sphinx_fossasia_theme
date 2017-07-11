@@ -4,7 +4,7 @@ import sys
 
 setup(
     name = 'sphinx_fossasia_theme',
-    version = '0.0.1',
+    version = '0.0.2',
     author = 'Ujjwal Bhardwaj',
     author_email = 'ujjwalb1996@gmail.com',
     url = 'https://github.com/fossasia/sphinx_fossasia_theme',
